@@ -11,7 +11,7 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 
-import sphinx_bootstrap_theme
+# import sphinx_bootstrap_theme
 
 
 # import os
@@ -30,7 +30,7 @@ html_theme = 'bootstrap'
 
 html_short_title = 'CV'
 
-html_logo = "../bunny.png"
+# html_logo = "../bunny.png"
 
 # -- Project information -----------------------------------------------------
 
